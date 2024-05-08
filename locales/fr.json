@@ -1,0 +1,18 @@
+{
+  "app": {
+    "title": "Raccourcisseur d'URL"
+  },
+  "main_form": {
+    "url_label": "Saisissez l'URL :",
+    "url_field": "Collez votre URL ici...",
+    "successful_message": "L'URL a été raccourcie et copiée dans votre presse-papiers !"
+  },
+  "button": {
+    "submit": "Soumettre",
+    "close": "Fermer"
+  },
+  "error": {
+    "invalid_url": "Veuillez saisir une URL valide !",
+    "missing_url": "Veuillez entrer une URL !"
+  }
+}

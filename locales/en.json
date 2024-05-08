@@ -1,0 +1,18 @@
+{
+  "app": {
+    "title": "URL Shortener"
+  },
+  "main_form": {
+    "url_label": "Enter the URL:",
+    "url_field": "Paste your URL here...",
+    "successful_message": "The URL has been shortened and copied to your clipboard!"
+  },
+  "button": {
+    "submit": "Submit",
+    "close": "Close"
+  },
+  "error": {
+    "invalid_url": "Please enter a valid URL!",
+    "missing_url": "Please enter a URL!"
+  }
+}
